@@ -1,20 +1,20 @@
 export const projects = [
   {
-    name: "IoT 儀表板",
-    image: "/IMAGE/homepage.jpg",
-    description: "Next.js + MQTT 的即時監控面板。",
+    name: "Project1",
+    image: "/IMAGE/project1.jpg",
+    description: "Say something.",
     link: "#"
   },
   {
-    name: "XAI 醫療影像",
-    image: "/IMAGE/homepage.jpg",
-    description: "Grad-CAM / LIME 模型解釋視覺化。",
+    name: "Project2",
+    image: "/IMAGE/project2.jpg",
+    description: "Say something.",
     link: "#"
   },
   {
-    name: "前端 UI 元件",
-    image: "/IMAGE/homepage.jpg",
-    description: "React 組件庫與範例。",
+    name: "Project3",
+    image: "/IMAGE/project3.jpg",
+    description: "Say something.",
     link: "#"
   }
 ];
